@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Subham Sinha currently enrolled at Jadavpur University, Department of Instrumentation and Electronics Engineering.
-- 👀 I’m interested in Machine Learning , Full Stack Development , Android Development , Competitive Programming , Dara Structures and Algorithms , Ethical Hacking and Blockchain.
+- 👀 I’m interested in Machine Learning , Full Stack Development , Android Development , Competitive Programming , Data Structures and Algorithms , Ethical Hacking and Blockchain.
 - 🌱 I’m currently learning Machine Learning , DSA
 - 💞️ I’m looking to collaborate on Machine Learning and Web Dev projects
 - 📫 How to reach me Email me at edsubham@gmail.com
