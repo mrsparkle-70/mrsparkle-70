@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ML,DSA**
 
-- 👯 I’m looking to collaborate on **Machine learning and web dev projects.**
+- 👯 I’m looking to collaborate on **Machine learning and Web dev projects.**
 
 - 📫 How to reach me **edsubham@gmail.com**
 
