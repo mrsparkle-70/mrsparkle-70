@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subham Sinha</h1>
-<h3 align="center">I'm a 2nd year student persuing B.Tech in Department of Instrumentation and Electronics Engineering from Jadavpur University.</h3>
+<h3 align="center">I'm a 3rd year student persuing B.Tech in Department of Instrumentation and Electronics Engineering from Jadavpur University.</h3>
 
 - 🌱 I’m currently learning **ML,DSA**
 
