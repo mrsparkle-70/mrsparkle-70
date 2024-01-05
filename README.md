@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Subham Sinha</h1>
-<h3 align="center">I'm a 3rd year student persuing B.Tech in Department of Instrumentation and Electronics Engineering from Jadavpur University.</h3>
+<h1 align="center">👋 Hello World, I'm Subham Sinha! 🎸</h1>
+<h3 align="center">A passionate 3rd-year B.Tech student studying Instrumentation and Electronics Engineering at Jadavpur University</h3>
 
-- 🌱 I’m currently learning **ML,DSA**
+- 🌱 I’m currently diving deep into **Machine Learning** and **Data Structures & Algorithms**
+- 👯 I’m eager to collaborate on **Machine Learning** and **Web Development** projects
+- 📫 You can reach me at **decodesubham@gmail.com**
 
-- 👯 I’m looking to collaborate on **Machine learning and Web dev projects.**
-
-- 📫 How to reach me **edsubham@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
