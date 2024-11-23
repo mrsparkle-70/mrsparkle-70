@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World, I'm Subham Sinha! 🎸</h1>
-<h3 align="center">A passionate 3rd-year B.Tech student studying Instrumentation and Electronics Engineering at Jadavpur University</h3>
+<h3 align="center">A passionate final-year B.Tech student in Instrumentation and Electronics Engineering at Jadavpur University, with a strong focus on coding, software development, and problem-solving.</h3>
 
 - 🌱 I’m currently diving deep into **Machine Learning** and **Data Structures & Algorithms**
 - 👯 I’m eager to collaborate on **Machine Learning** and **Web Development** projects
