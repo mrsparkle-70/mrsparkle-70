@@ -5,6 +5,9 @@
 - 👯 I’m eager to collaborate on **Machine Learning** and **Web Development** projects
 - 📫 You can reach me at **decodesubham@gmail.com**
 
+## 📊 GitHub Profile Check
+![](https://img.shields.io/github/followers/mrsparkle-70?style=social) ![](https://img.shields.io/github/stars/mrsparkle-70?style=social)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
